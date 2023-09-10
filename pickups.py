@@ -40,6 +40,8 @@ def impress_crush():
     "Do you have a twin? No? Then you must be the most beautiful person in the world.",
     "Is your name Autumn? Because you're a real leaf-turner.",
     
+    #Add your punchlines here.....
+    
 ]
     
     pickup_line = random.choice(pickup_lines)
