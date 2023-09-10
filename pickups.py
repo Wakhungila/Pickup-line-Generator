@@ -51,11 +51,11 @@ window.title("Howdy, Babe!")
 window.geometry("500x100")
 
 # Create a label to display the pickup lines
-label = tk.Label(window, text="Click the button for a romantic pickup line!")
+label = tk.Label(window, text="Click the button for a romantic punchline!")
 label.pack(pady=20)
 
 # Create a button
-button = tk.Button(window, text="CLick ME", command=impress_crush)
+button = tk.Button(window, text="Punchline", command=impress_crush)
 button.pack()
 
 # Start the main event loop
